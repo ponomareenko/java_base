@@ -1,0 +1,16 @@
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### My ###
+/.idea
+/.mvn
+/client/src/main/resources
+/client/target
+/info
+/server/target
+/server/src/main/resources
+/src/main/resources
+/DORABOTKI.md
